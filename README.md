@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Eleni Chrysomalli
 
-<!--
-**Chrysomall/Chrysomall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Lead | Automation Engineer | Java • Selenium • TestNG • Cucumber • Jenkins
 
-Here are some ideas to get you started:
+---
+ I'm a hands-on Quality Assurance professional with over 10 years of experience across QA leadership, automation frameworks, and product testing. 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+- **Languages**: Java, JavaScript 
+- **Automation Tools**: Selenium WebDriver, TestNG, Cucumber, Cypress, Appium 
+- **Build & CI/CD**: Maven, Jenkins
+- **Reporting**: ExtentReports, Cucumber HTML, Allure
+- **Version Control**: Git, GitHub
+- **Testing Focus Areas**: UI Automation, API Testing, End-to-End flows, Data-driven testing
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [SauceDemo UI Automation](https://github.com/Chrysomall/saucedemo-ui-automation) | Java + Selenium + TestNG + Cucumber framework built from scratch with POM, reporting, parallel execution, and login data-driven testing. |
+
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: chrysomall@gmail.com
+- 🔗 [LinkedIn](www.linkedin.com/in/eleni-chrysomalli)
+
+---
+
+Thanks for visiting!
