@@ -21,7 +21,7 @@ QA Lead | Automation Engineer | Java • Selenium • TestNG • Cucumber • Je
 
 | Project | Description |
 |--------|-------------|
-| [SauceDemo UI Automation](https://github.com/Chrysomall/saucedemo-ui-automation) | Java + Selenium + TestNG + Cucumber framework built from scratch with POM, reporting, parallel execution, and login data-driven testing. |
+| [SauceDemo UI Automation](https://github.com/Chrysomall/saucedemo-ui-automation) | Java + Selenium + TestNG + Cucumber framework built from scratch with POM, reporting, parallel execution, and login data-driven testing.Integrated with Jenkins – for automated test execution on Git push and scheduled runs |
 
 
 ---
